@@ -1,4 +1,4 @@
-## Hi, I' Pablo 👋
+# Hi, I' Pablo 👋
 ### I'm [Your Name], on a journey to become a skilled Data Analyst 📊.
 
 **pablo-rod/pablo-rod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
